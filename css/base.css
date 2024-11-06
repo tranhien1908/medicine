@@ -1,0 +1,24 @@
+:root{
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color:#333;
+    --main-color: #29a02d;
+}   
+
+*{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.grid{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
